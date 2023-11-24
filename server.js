@@ -4,7 +4,7 @@ import colors from "colors";
 import morgan from "morgan";
 import transactions from "./routes/transactions.js";
 import connectDB from "./config/db.js";
-dotenv.config({ path: "./config/config.env" });
+dotenv.config();
 const app = express();
 connectDB();
 const port = process.env.PORT || 5000;
