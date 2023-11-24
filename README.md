@@ -1,5 +1,12 @@
 # Expense Tracker (React)
 
+React |
+CSS |
+Axios |
+Node |
+Express API |
+MongoDB
+
 ## Usage
 
 ```
